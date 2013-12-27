@@ -2,3 +2,12 @@ One click generate all the file you need to begin your web development
 -Directory with the name of project 
 -index.html calling the css file on style/style.css  
 and a images directory .
+
+
+How To use ? 
+
+Simple ,
+1) make sure you are currently in the directory with your source code files andrun the following command: 
+javac *.java
+2) java -cp "." CreateFile
+
